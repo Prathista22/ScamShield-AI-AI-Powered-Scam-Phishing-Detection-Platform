@@ -1,0 +1,22 @@
+text,label
+"Congratulations! You have won 50000 rupees in the lucky draw. Claim your reward immediately by clicking this link.",prize_scam
+"You are our lucky winner today! Click here now to claim your free prize before it expires.",prize_scam
+"URGENT: Your lottery ticket has won a cash prize. Reply immediately to claim.",prize_scam
+"Dear customer your bank account has been suspended due to unusual activity. Verify your account immediately by clicking here.",banking_scam
+"Your debit card will be blocked today. Update your KYC details now by clicking this link to avoid suspension.",banking_scam
+"We noticed unusual login activity on your net banking. Confirm your identity immediately or your account will be locked.",banking_scam
+"Urgent hiring work from home and earn 3000 rupees per day no experience needed click here to apply now.",job_scam
+"Great part time job opportunity earn easy money daily just register and share your bank details.",job_scam
+"We are hiring immediately no experience required apply now and start earning today.",job_scam
+"Double your money in 7 days guaranteed returns invest now in our crypto trading plan.",investment_scam
+"Guaranteed high returns on your investment join our trading platform today and earn daily profit.",investment_scam
+"Your parcel delivery has failed please pay a small customs fee to reschedule your shipment.",delivery_scam
+"Your package is pending delivery, click here and pay the courier fee to receive it today.",delivery_scam
+"Your password has expired click here to reset it immediately or your account will be locked.",account_scam
+"We detected a suspicious login attempt on your account confirm your identity now.",account_scam
+"Hi it was really nice meeting you at the conference, let's catch up over coffee sometime.",legitimate
+"Reminder: your dentist appointment is scheduled for tomorrow at 10am.",legitimate
+"Hey are we still meeting for lunch tomorrow at 1pm? Let me know if that works.",legitimate
+"Your monthly electricity bill has been generated, please pay by the due date via the official portal.",legitimate
+"Thank you for your order, your invoice is attached. Contact support if you have questions.",legitimate
+"Team meeting moved to 3pm today, please update your calendars accordingly.",legitimate

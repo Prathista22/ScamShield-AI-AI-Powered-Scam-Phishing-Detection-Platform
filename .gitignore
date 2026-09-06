@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# ML artifacts
+ml/*.pkl
+ml/model.pkl
+
+# Node / React
+node_modules/
+frontend/build/
+frontend/.env
+
+# Env / secrets
+.env
+*.env.local
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
